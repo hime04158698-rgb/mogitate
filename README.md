@@ -109,3 +109,7 @@ http://localhost/products
 6. 商品削除
 7. 商品が5件以上ある状態でページネーション確認
 8. Next / Previousでページ遷移できることを確認
+
+## ER図
+
+![ER図](er.png)
